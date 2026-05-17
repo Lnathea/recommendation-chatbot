@@ -9,7 +9,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lnathea/recommendation-chatbot/blob/main/chatbot_complete.ipynb)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recommendation-chatbot-gfcfyhm74n4h7miiz4kvc6.streamlit.app/)
 
 ---
 
