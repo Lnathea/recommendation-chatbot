@@ -108,9 +108,9 @@ recommendation-chatbot/
 ### Part 2 — NLP Model Training
 | Model | Accuracy | F1 Score |
 |---|---|---|
-| Logistic Regression | — | — |
-| **SVM (LinearSVC)** ⭐ | — | — |
-| Random Forest | — | — |
+| Logistic Regression | 56.00% | 0.5480 |
+| **SVM (LinearSVC)** ⭐ | 60.00% | 0.5916 |
+| Random Forest | 52.00% | 0.5272 |
 
 > *Isi setelah notebook dijalankan*
 
