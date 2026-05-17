@@ -183,7 +183,7 @@ streamlit run app.py
 ## 👤 Author
 
 **Muhammad Afriza Hidayat**
-Mahasiswa Teknik Informatika | Data & AI Enthusiast
+Mahasiswa Teknologi Informasi | Data & AI Enthusiast | Telkom University Jakarta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/afriza)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Lnathea)
