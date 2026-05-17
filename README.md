@@ -112,8 +112,6 @@ recommendation-chatbot/
 | **SVM (LinearSVC)** ⭐ | 60.00% | 0.5916 |
 | Random Forest | 52.00% | 0.5272 |
 
-> *Isi setelah notebook dijalankan*
-
 - TF-IDF Vectorizer (unigram + bigram, 500 fitur)
 - 5-Fold Cross Validation untuk validasi stabilitas model
 - Pipeline TF-IDF + Classifier disimpan sebagai `.pkl`
