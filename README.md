@@ -164,7 +164,7 @@ recommendation-chatbot/
 
 **Opsi 1 — Streamlit Web App (Live Demo)**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recommendation-chatbot-gfcfyhm74n4h7miiz4kvc6.streamlit.app/)
 
 **Opsi 2 — Google Colab**
 
