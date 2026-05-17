@@ -1,0 +1,24 @@
+{
+  "label2idx": {
+    "ask_more": 0,
+    "filter_genre": 1,
+    "filter_mood": 2,
+    "goodbye": 3,
+    "greet": 4,
+    "recommend_book": 5,
+    "recommend_movie": 6,
+    "recommend_music": 7,
+    "thanks": 8
+  },
+  "idx2label": {
+    "0": "ask_more",
+    "1": "filter_genre",
+    "2": "filter_mood",
+    "3": "goodbye",
+    "4": "greet",
+    "5": "recommend_book",
+    "6": "recommend_movie",
+    "7": "recommend_music",
+    "8": "thanks"
+  }
+}

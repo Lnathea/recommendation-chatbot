@@ -1,0 +1,261 @@
+[
+  {
+    "title":"Mad Max: Fury Road",
+    "genre":"action",
+    "mood":[
+      "exciting",
+      "intense"
+    ],
+    "rating":8.1,
+    "year":2015,
+    "desc":"Post-apocalyptic chase thriller"
+  },
+  {
+    "title":"John Wick",
+    "genre":"action",
+    "mood":[
+      "exciting",
+      "intense"
+    ],
+    "rating":7.4,
+    "year":2014,
+    "desc":"Retired hitman seeks revenge"
+  },
+  {
+    "title":"Top Gun: Maverick",
+    "genre":"action",
+    "mood":[
+      "exciting",
+      "motivating"
+    ],
+    "rating":8.3,
+    "year":2022,
+    "desc":"Elite pilot faces new mission"
+  },
+  {
+    "title":"Mission Impossible: Fallout",
+    "genre":"action",
+    "mood":[
+      "exciting",
+      "intense"
+    ],
+    "rating":7.7,
+    "year":2018,
+    "desc":"Ethan Hunt saves the world again"
+  },
+  {
+    "title":"Get Out",
+    "genre":"horror",
+    "mood":[
+      "tense",
+      "intense"
+    ],
+    "rating":7.7,
+    "year":2017,
+    "desc":"Racial horror thriller"
+  },
+  {
+    "title":"A Quiet Place",
+    "genre":"horror",
+    "mood":[
+      "tense",
+      "intense"
+    ],
+    "rating":7.5,
+    "year":2018,
+    "desc":"Family survives in silence"
+  },
+  {
+    "title":"Hereditary",
+    "genre":"horror",
+    "mood":[
+      "tense",
+      "sad"
+    ],
+    "rating":7.3,
+    "year":2018,
+    "desc":"Family haunted by dark ancestry"
+  },
+  {
+    "title":"The Conjuring",
+    "genre":"horror",
+    "mood":[
+      "tense",
+      "intense"
+    ],
+    "rating":7.5,
+    "year":2013,
+    "desc":"Paranormal investigators help a family"
+  },
+  {
+    "title":"La La Land",
+    "genre":"romance",
+    "mood":[
+      "happy",
+      "sad",
+      "relaxing"
+    ],
+    "rating":8.0,
+    "year":2016,
+    "desc":"Love story between two dreamers"
+  },
+  {
+    "title":"The Notebook",
+    "genre":"romance",
+    "mood":[
+      "sad",
+      "happy"
+    ],
+    "rating":7.8,
+    "year":2004,
+    "desc":"Epic love story across decades"
+  },
+  {
+    "title":"Crazy Rich Asians",
+    "genre":"romance",
+    "mood":[
+      "happy",
+      "relaxing"
+    ],
+    "rating":6.9,
+    "year":2018,
+    "desc":"Romance meets Asian family drama"
+  },
+  {
+    "title":"The Grand Budapest Hotel",
+    "genre":"comedy",
+    "mood":[
+      "happy",
+      "relaxing"
+    ],
+    "rating":8.1,
+    "year":2014,
+    "desc":"Quirky adventures of a hotel concierge"
+  },
+  {
+    "title":"Superbad",
+    "genre":"comedy",
+    "mood":[
+      "happy",
+      "funny"
+    ],
+    "rating":7.6,
+    "year":2007,
+    "desc":"High school friends last adventure"
+  },
+  {
+    "title":"Parasite",
+    "genre":"comedy",
+    "mood":[
+      "intense",
+      "exciting"
+    ],
+    "rating":8.5,
+    "year":2019,
+    "desc":"Class divide dark comedy thriller"
+  },
+  {
+    "title":"Interstellar",
+    "genre":"sci-fi",
+    "mood":[
+      "exciting",
+      "sad",
+      "motivating"
+    ],
+    "rating":8.6,
+    "year":2014,
+    "desc":"Journey through space and time"
+  },
+  {
+    "title":"Dune",
+    "genre":"sci-fi",
+    "mood":[
+      "exciting",
+      "intense"
+    ],
+    "rating":8.0,
+    "year":2021,
+    "desc":"Epic science fiction saga"
+  },
+  {
+    "title":"Everything Everywhere All at Once",
+    "genre":"sci-fi",
+    "mood":[
+      "happy",
+      "sad",
+      "funny"
+    ],
+    "rating":7.8,
+    "year":2022,
+    "desc":"Multiverse adventure comedy"
+  },
+  {
+    "title":"The Shawshank Redemption",
+    "genre":"drama",
+    "mood":[
+      "motivating",
+      "sad"
+    ],
+    "rating":9.3,
+    "year":1994,
+    "desc":"Hope and friendship in prison"
+  },
+  {
+    "title":"Forrest Gump",
+    "genre":"drama",
+    "mood":[
+      "happy",
+      "sad",
+      "motivating"
+    ],
+    "rating":8.8,
+    "year":1994,
+    "desc":"Life journey of a simple man"
+  },
+  {
+    "title":"Soul",
+    "genre":"drama",
+    "mood":[
+      "relaxing",
+      "motivating",
+      "happy"
+    ],
+    "rating":8.0,
+    "year":2020,
+    "desc":"Jazz musician discovers purpose of life"
+  },
+  {
+    "title":"Gone Girl",
+    "genre":"thriller",
+    "mood":[
+      "intense",
+      "tense"
+    ],
+    "rating":8.1,
+    "year":2014,
+    "desc":"Mystery behind a missing wife"
+  },
+  {
+    "title":"Knives Out",
+    "genre":"thriller",
+    "mood":[
+      "exciting",
+      "funny"
+    ],
+    "rating":7.9,
+    "year":2019,
+    "desc":"Whodunit mystery comedy"
+  },
+  {
+    "title":"Prisoners",
+    "genre":"thriller",
+    "mood":[
+      "intense",
+      "tense",
+      "sad"
+    ],
+    "rating":8.1,
+    "year":2013,
+    "desc":"Father searches for missing daughters"
+  }
+]

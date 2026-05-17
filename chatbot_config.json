@@ -1,0 +1,148 @@
+{
+  "responses": {
+    "greet": {
+      "id": [
+        "Halo! Aku siap bantu rekomendasiin film, musik, atau buku buat kamu 🎬🎵📚",
+        "Hai! Mau cari rekomendasi apa hari ini? Film, musik, atau buku?",
+        "Hei! Aku RecBot, siap kasih rekomendasi terbaik buat kamu!"
+      ],
+      "en": [
+        "Hey there! I can recommend movies, music, or books for you 🎬🎵📚",
+        "Hi! Looking for a movie, some music, or a good book?",
+        "Hello! I'm RecBot, ready to give you the best recommendations!"
+      ]
+    },
+    "ask_type": {
+      "id": "Mau rekomendasi apa? 🎬 Film, 🎵 Musik, atau 📚 Buku?",
+      "en": "What would you like? 🎬 Movies, 🎵 Music, or 📚 Books?"
+    },
+    "recommend_movie": {
+      "id": "Nih beberapa film yang mungkin kamu suka 🎬",
+      "en": "Here are some movies you might enjoy 🎬"
+    },
+    "recommend_music": {
+      "id": "Dengerin ini deh, cocok banget! 🎵",
+      "en": "Check these out, you might love them! 🎵"
+    },
+    "recommend_book": {
+      "id": "Buku-buku ini kayaknya bakal kamu suka 📚",
+      "en": "These books might be perfect for you 📚"
+    },
+    "ask_more": {
+      "id": "Oke, ini rekomendasi tambahan buat kamu!",
+      "en": "Sure! Here are more recommendations for you!"
+    },
+    "thanks": {
+      "id": [
+        "Sama-sama! Semoga rekomendasi tadi cocok ya 😊",
+        "Senang bisa bantu! Kalau butuh rekomendasi lagi, tanya aja!"
+      ],
+      "en": [
+        "You're welcome! Hope you enjoy the recommendations 😊",
+        "Happy to help! Feel free to ask for more anytime!"
+      ]
+    },
+    "goodbye": {
+      "id": [
+        "Sampai jumpa! Selamat menikmati 👋",
+        "Dadah! Semoga harimu menyenangkan 😊"
+      ],
+      "en": [
+        "Goodbye! Enjoy your recommendations 👋",
+        "See you! Have a great time 😊"
+      ]
+    },
+    "fallback": {
+      "id": "Hmm, aku kurang ngerti maksudnya. Coba tanya rekomendasi film, musik, atau buku ya!",
+      "en": "Hmm, I'm not sure I understand. Try asking for a movie, music, or book recommendation!"
+    }
+  },
+  "genre_map": {
+    "action": "action",
+    "aksi": "action",
+    "horror": "horror",
+    "horor": "horror",
+    "seram": "horror",
+    "romance": "romance",
+    "romantis": "romance",
+    "roman": "romance",
+    "comedy": "comedy",
+    "komedi": "comedy",
+    "lucu": "comedy",
+    "thriller": "thriller",
+    "menegangkan": "thriller",
+    "drama": "drama",
+    "sci-fi": "sci-fi",
+    "fiksi": "sci-fi",
+    "science": "sci-fi",
+    "pop": "pop",
+    "rock": "rock",
+    "jazz": "jazz",
+    "lofi": "lofi",
+    "lo-fi": "lofi",
+    "santai": "lofi",
+    "electronic": "electronic",
+    "elektro": "electronic",
+    "rnb": "rnb",
+    "r&b": "rnb",
+    "indie": "indie",
+    "fantasy": "fantasy",
+    "fantasi": "fantasy",
+    "self-help": "self-help",
+    "motivasi": "self-help",
+    "pengembangan": "self-help",
+    "non-fiction": "non-fiction",
+    "nonfiksi": "non-fiction",
+    "fiction": "fiction",
+    "fiksi ilmiah": "fiction"
+  },
+  "mood_map": {
+    "happy": "happy",
+    "senang": "happy",
+    "bahagia": "happy",
+    "funny": "funny",
+    "lucu": "funny",
+    "ketawa": "funny",
+    "exciting": "exciting",
+    "seru": "exciting",
+    "semangat": "exciting",
+    "motivating": "motivating",
+    "motivasi": "motivating",
+    "motivate": "motivating",
+    "sad": "sad",
+    "sedih": "sad",
+    "galau": "sad",
+    "down": "sad",
+    "lonely": "sad",
+    "patah": "sad",
+    "relaxing": "relaxing",
+    "santai": "relaxing",
+    "tenang": "relaxing",
+    "relax": "relaxing",
+    "kalem": "relaxing",
+    "intense": "intense",
+    "intens": "intense",
+    "tense": "tense",
+    "tegang": "tense",
+    "focusing": "focusing",
+    "fokus": "focusing",
+    "belajar": "focusing"
+  },
+  "content_type_map": {
+    "film": "movie",
+    "movie": "movie",
+    "nonton": "movie",
+    "watch": "movie",
+    "lagu": "music",
+    "musik": "music",
+    "music": "music",
+    "song": "music",
+    "playlist": "music",
+    "dengerin": "music",
+    "listen": "music",
+    "buku": "book",
+    "book": "book",
+    "baca": "book",
+    "read": "book"
+  }
+}

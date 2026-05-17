@@ -1,0 +1,202 @@
+[
+  {
+    "title":"Atomic Habits",
+    "author":"James Clear",
+    "genre":"self-help",
+    "mood":[
+      "motivating",
+      "focusing"
+    ],
+    "rating":4.4,
+    "desc":"Build good habits, break bad ones"
+  },
+  {
+    "title":"The Alchemist",
+    "author":"Paulo Coelho",
+    "genre":"self-help",
+    "mood":[
+      "motivating",
+      "relaxing"
+    ],
+    "rating":4.2,
+    "desc":"Follow your dreams journey"
+  },
+  {
+    "title":"Ikigai",
+    "author":"Hector Garcia",
+    "genre":"self-help",
+    "mood":[
+      "relaxing",
+      "motivating"
+    ],
+    "rating":4.0,
+    "desc":"Japanese secret to long happy life"
+  },
+  {
+    "title":"The Power of Now",
+    "author":"Eckhart Tolle",
+    "genre":"self-help",
+    "mood":[
+      "relaxing",
+      "motivating"
+    ],
+    "rating":4.1,
+    "desc":"Living in the present moment"
+  },
+  {
+    "title":"The Midnight Library",
+    "author":"Matt Haig",
+    "genre":"fiction",
+    "mood":[
+      "sad",
+      "motivating",
+      "relaxing"
+    ],
+    "rating":4.2,
+    "desc":"Library between life and death"
+  },
+  {
+    "title":"Project Hail Mary",
+    "author":"Andy Weir",
+    "genre":"fiction",
+    "mood":[
+      "exciting",
+      "motivating"
+    ],
+    "rating":4.5,
+    "desc":"Astronaut saves earth alone"
+  },
+  {
+    "title":"The Martian",
+    "author":"Andy Weir",
+    "genre":"fiction",
+    "mood":[
+      "exciting",
+      "funny"
+    ],
+    "rating":4.4,
+    "desc":"Stranded astronaut survives on Mars"
+  },
+  {
+    "title":"Tomorrow and Tomorrow",
+    "author":"Gabrielle Zevin",
+    "genre":"fiction",
+    "mood":[
+      "sad",
+      "happy",
+      "relaxing"
+    ],
+    "rating":4.3,
+    "desc":"Love and video games"
+  },
+  {
+    "title":"Gone Girl",
+    "author":"Gillian Flynn",
+    "genre":"thriller",
+    "mood":[
+      "intense",
+      "exciting"
+    ],
+    "rating":4.0,
+    "desc":"Missing wife mystery thriller"
+  },
+  {
+    "title":"The Girl with the Dragon Tattoo",
+    "author":"Stieg Larsson",
+    "genre":"thriller",
+    "mood":[
+      "intense",
+      "exciting"
+    ],
+    "rating":4.1,
+    "desc":"Journalist investigates old mystery"
+  },
+  {
+    "title":"Big Little Lies",
+    "author":"Liane Moriarty",
+    "genre":"thriller",
+    "mood":[
+      "intense",
+      "funny"
+    ],
+    "rating":4.1,
+    "desc":"Secrets among school parents"
+  },
+  {
+    "title":"The Hating Game",
+    "author":"Sally Thorne",
+    "genre":"romance",
+    "mood":[
+      "happy",
+      "funny"
+    ],
+    "rating":3.9,
+    "desc":"Office rivals fall in love"
+  },
+  {
+    "title":"Beach Read",
+    "author":"Emily Henry",
+    "genre":"romance",
+    "mood":[
+      "happy",
+      "relaxing"
+    ],
+    "rating":3.9,
+    "desc":"Two writers and a summer bet"
+  },
+  {
+    "title":"Sapiens",
+    "author":"Yuval Noah Harari",
+    "genre":"non-fiction",
+    "mood":[
+      "motivating",
+      "exciting"
+    ],
+    "rating":4.4,
+    "desc":"Brief history of humankind"
+  },
+  {
+    "title":"Educated",
+    "author":"Tara Westover",
+    "genre":"non-fiction",
+    "mood":[
+      "motivating",
+      "intense"
+    ],
+    "rating":4.5,
+    "desc":"Self-educated girl escapes family"
+  },
+  {
+    "title":"Thinking Fast and Slow",
+    "author":"Daniel Kahneman",
+    "genre":"non-fiction",
+    "mood":[
+      "focusing",
+      "relaxing"
+    ],
+    "rating":4.2,
+    "desc":"How we think and make decisions"
+  },
+  {
+    "title":"The Name of the Wind",
+    "author":"Patrick Rothfuss",
+    "genre":"fantasy",
+    "mood":[
+      "exciting",
+      "relaxing"
+    ],
+    "rating":4.5,
+    "desc":"Legend of the most infamous magician"
+  },
+  {
+    "title":"The Way of Kings",
+    "author":"Brandon Sanderson",
+    "genre":"fantasy",
+    "mood":[
+      "exciting",
+      "motivating"
+    ],
+    "rating":4.6,
+    "desc":"Epic fantasy saga"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "title":"Blinding Lights",
+    "artist":"The Weeknd",
+    "genre":"pop",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2019
+  },
+  {
+    "title":"Levitating",
+    "artist":"Dua Lipa",
+    "genre":"pop",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2020
+  },
+  {
+    "title":"Anti-Hero",
+    "artist":"Taylor Swift",
+    "genre":"pop",
+    "mood":[
+      "relaxing",
+      "sad"
+    ],
+    "year":2022
+  },
+  {
+    "title":"As It Was",
+    "artist":"Harry Styles",
+    "genre":"pop",
+    "mood":[
+      "sad",
+      "relaxing"
+    ],
+    "year":2022
+  },
+  {
+    "title":"Stay",
+    "artist":"The Kid LAROI",
+    "genre":"pop",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2021
+  },
+  {
+    "title":"Bohemian Rhapsody",
+    "artist":"Queen",
+    "genre":"rock",
+    "mood":[
+      "exciting",
+      "happy"
+    ],
+    "year":1975
+  },
+  {
+    "title":"Smells Like Teen Spirit",
+    "artist":"Nirvana",
+    "genre":"rock",
+    "mood":[
+      "intense",
+      "exciting"
+    ],
+    "year":1991
+  },
+  {
+    "title":"Hotel California",
+    "artist":"Eagles",
+    "genre":"rock",
+    "mood":[
+      "relaxing",
+      "sad"
+    ],
+    "year":1977
+  },
+  {
+    "title":"Take Five",
+    "artist":"Dave Brubeck",
+    "genre":"jazz",
+    "mood":[
+      "relaxing",
+      "happy"
+    ],
+    "year":1959
+  },
+  {
+    "title":"So What",
+    "artist":"Miles Davis",
+    "genre":"jazz",
+    "mood":[
+      "relaxing",
+      "sad"
+    ],
+    "year":1959
+  },
+  {
+    "title":"Fly Me to the Moon",
+    "artist":"Frank Sinatra",
+    "genre":"jazz",
+    "mood":[
+      "happy",
+      "relaxing"
+    ],
+    "year":1964
+  },
+  {
+    "title":"Snowfall",
+    "artist":"\u00d8neheart & reidenshi",
+    "genre":"lofi",
+    "mood":[
+      "relaxing",
+      "sad"
+    ],
+    "year":2021
+  },
+  {
+    "title":"Chill Lofi Study Beats",
+    "artist":"Lofi Girl",
+    "genre":"lofi",
+    "mood":[
+      "relaxing",
+      "focusing"
+    ],
+    "year":2020
+  },
+  {
+    "title":"Golden",
+    "artist":"Harry Styles",
+    "genre":"rnb",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2020
+  },
+  {
+    "title":"Superstar",
+    "artist":"Usher",
+    "genre":"rnb",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2004
+  },
+  {
+    "title":"One More Time",
+    "artist":"Daft Punk",
+    "genre":"electronic",
+    "mood":[
+      "happy",
+      "exciting"
+    ],
+    "year":2000
+  },
+  {
+    "title":"Strobe",
+    "artist":"deadmau5",
+    "genre":"electronic",
+    "mood":[
+      "relaxing",
+      "sad"
+    ],
+    "year":2009
+  },
+  {
+    "title":"Don't Stop Believin",
+    "artist":"Journey",
+    "genre":"rock",
+    "mood":[
+      "motivating",
+      "happy"
+    ],
+    "year":1981
+  },
+  {
+    "title":"Eye of the Tiger",
+    "artist":"Survivor",
+    "genre":"rock",
+    "mood":[
+      "motivating",
+      "exciting"
+    ],
+    "year":1982
+  },
+  {
+    "title":"Happy",
+    "artist":"Pharrell Williams",
+    "genre":"pop",
+    "mood":[
+      "happy",
+      "motivating"
+    ],
+    "year":2013
+  },
+  {
+    "title":"The Night We Met",
+    "artist":"Lord Huron",
+    "genre":"indie",
+    "mood":[
+      "sad",
+      "relaxing"
+    ],
+    "year":2014
+  },
+  {
+    "title":"someone like you",
+    "artist":"Adele",
+    "genre":"pop",
+    "mood":[
+      "sad",
+      "relaxing"
+    ],
+    "year":2011
+  }
+]
